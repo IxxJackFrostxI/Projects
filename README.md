@@ -7,5 +7,5 @@ COVID - 19 Analysis :- The objective of this project was to analyze COVID-19 dat
 
 Bank Management System :- The Bank Management System project is developed using Python programming language to facilitate efficient management of banking operations.
                           It provides a user-friendly interface for bank staff to perform various tasks such as managing customer accounts, handling transactions 
-                          and maintaining customer information securely.
+                          and maintaining customer information securely. 
 
